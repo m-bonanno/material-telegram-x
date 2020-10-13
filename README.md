@@ -2,6 +2,8 @@
 
 Material design is a visual language and design system developed by Google with an almost flat style and vibrant color schemes.
 
+[Follow updates on Telegram!](https://t.me/material_telegram_x)
+
 ## Color Palette
 
 | Palette                                                                     | Hex       | RGB           | HSL             |
