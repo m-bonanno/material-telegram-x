@@ -1,6 +1,6 @@
 # Material Telegram X
 
-A set of Material Theme for Telegram X
+Material design is a visual language and design system developed by Google with an almost flat style and vibrant color schemes.
 
 ## Color Palette
 
