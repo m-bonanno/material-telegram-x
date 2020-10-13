@@ -1,5 +1,5 @@
 !
-name: "Material Yellow Dark"
+name: "Material Amber Dark"
 time: 1602601250
 author: "NotSoSnake"
 @
@@ -7,12 +7,12 @@ lightStatusBar: 1
 parentTheme: 2
 #
 attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, background, badgeMutedText, badgeText, bubble_chatSeparator, chatBackground, chatKeyboard, chatListAction, chatSeparator, checkContent, circleButtonNewChannelIcon, circleButtonNewChatIcon, circleButtonNewGroupIcon, circleButtonNewSecretIcon, circleButtonRegularIcon, circleButtonThemeIcon, controlContent, filling, headerButtonIcon, headerIcon, headerRemoveBackground, headerRemoveBackgroundHighlight, headerTabActive, headerTabActiveText, headerText, iv_preBlockBackground, iv_separator, messageSwipeBackground, notificationPlayer, overlayFilling, passcode, playerCoverPlaceholder, separator, shareSeparator, snackbarUpdate, unread: #0C090A
-attachText, background_icon, badge, badgeMuted, bubble_messageCheckOutline, bubble_messageCheckOutlineNoWallpaper, bubbleIn_progress, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_messageAuthor, bubbleOut_textLink, bubbleOut_ticksRead, bubbleOut_waveformActive, caption_textLink, chatKeyboardButton, chatListVerify, chatSendButton, checkActive, circleButtonNewChannel, circleButtonNewChat, circleButtonNewGroup, circleButtonNewSecret, circleButtonRegular, circleButtonTheme, controlActive, controlInactive, fillingPositive, headerBackground, headerBarCallActive, headerBarCallMuted, headerButton, iconActive, inlineIcon, inlineOutline, inlineText, inputActive, inputInactive, introSection, introSectionActive, iv_pageAuthor, iv_pageSubtitle, messageAuthor, messageVerticalLine, nameInactive, notification, playerButtonActive, playerCoverIcon, progress, promo, seekDone, seekEmpty, sliderActive, sliderInactive, textLink, textSearchQueryHighlight, ticksRead, togglerActive, togglerInactive, waveformActive: #FFEB3B
+attachText, background_icon, badge, badgeMuted, bubble_messageCheckOutline, bubble_messageCheckOutlineNoWallpaper, bubbleIn_progress, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_messageAuthor, bubbleOut_textLink, bubbleOut_ticksRead, bubbleOut_waveformActive, caption_textLink, chatKeyboardButton, chatListVerify, chatSendButton, checkActive, circleButtonNewChannel, circleButtonNewChat, circleButtonNewGroup, circleButtonNewSecret, circleButtonRegular, circleButtonTheme, controlActive, controlInactive, fillingPositive, headerBackground, headerBarCallActive, headerBarCallMuted, headerButton, iconActive, inlineIcon, inlineOutline, inlineText, inputActive, inputInactive, introSection, introSectionActive, iv_pageAuthor, iv_pageSubtitle, messageAuthor, messageVerticalLine, nameInactive, notification, playerButtonActive, playerCoverIcon, progress, promo, seekDone, seekEmpty, sliderActive, sliderInactive, textLink, textSearchQueryHighlight, ticksRead, togglerActive, togglerInactive, waveformActive: #FFC107
 avatarInactive, avatarSavedMessages, bubbleOut_file, circleButtonChat, circleButtonOverlay, file, fileAttach, fileGreen, fileRed, fileYellow: #2E3034
 background_text, circleButtonChatIcon, circleButtonOverlayIcon: #FFF
 background_textLight, iv_caption, iv_pageFooter, textLight: #909090
 bubble_button, bubble_button_noWallpaper, bubble_buttonRipple, bubble_buttonRipple_noWallpaper, bubble_date, bubble_date_noWallpaper, bubble_mediaOverlay, bubble_mediaReply, bubble_mediaReply_noWallpaper, bubble_mediaTime, bubble_mediaTime_noWallpaper, bubble_overlay, bubble_overlay_noWallpaper, bubble_unread, bubble_unread_noWallpaper: #16171940
-bubble_messageSelection, bubble_messageSelectionNoWallpaper: #FFEB3B3F
+bubble_messageSelection, bubble_messageSelectionNoWallpaper: #FFC1073F
 bubbleIn_background: #222
 bubbleIn_textLinkPressHighlight, bubbleOut_textLinkPressHighlight, caption_textLinkPressHighlight, textLinkPressHighlight: #161616
 bubbleIn_time: #86878A
@@ -22,6 +22,6 @@ fillingPressed: #626262
 headerTabInactiveText: #0C090A7F
 icon: #99999A
 iconLight: #797A7C
-seekReady: #FFEB3BBF
+seekReady: #FFC107BF
 statusBar: #00000019
-textSelectionHighlight, togglerActiveBackground, togglerInactiveBackground: #FFEB3B7F
+textSelectionHighlight, togglerActiveBackground, togglerInactiveBackground: #FFC1077F
